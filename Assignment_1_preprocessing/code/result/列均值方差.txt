@@ -1,0 +1,12 @@
+¾ùÖµ£º
+sepal_length    5.843333
+sepal_width     3.054000
+petal_length    3.758667
+petal_width     1.198667
+dtype: float64
+·½²î£º
+sepal_length    0.828066
+sepal_width     0.433594
+petal_length    1.764420
+petal_width     0.763161
+dtype: float64
